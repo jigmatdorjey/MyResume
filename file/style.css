@@ -804,6 +804,12 @@ form .btn2{
      .c-left{
          display: none;
         }
+
+
+    /* ---  REMOVE ---- */
+        .c-right{
+            display: none;
+        }
      
  
  }
